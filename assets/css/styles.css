@@ -607,6 +607,9 @@ cursor: pointer;
     grid-template-columns: repeat(3, 1fr);
     column-gap: 2rem;
   }
+  .work__img {
+    align-items: center;
+  }
 }
 
 @media screen and (min-width: 992px) {
